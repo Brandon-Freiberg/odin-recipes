@@ -1,0 +1,51 @@
+#container {
+    background-color: rgb(111, 137, 167) ;
+}
+
+#title {
+    font-size: 50px; ;
+    color:rgb(10, 10, 10);
+    background-color: rgb(111, 137, 167);
+    text-align: center;
+}
+
+#body {
+   
+    background-color: rgb(111, 137, 167);
+    align-content: center;
+    width: 1800px;
+}
+
+#image {
+    
+    height: auto;
+    Width: 500px;
+    background-color: rgb(111, 137, 167);
+    float: right;
+    
+}
+
+#description {
+    
+    color:rgb(0, 0, 0);
+    font-weight: 700;
+    font-size: 30px;
+       
+}
+
+#p-description {
+    float: left;
+    color:aliceblue;
+    font-weight: 700;
+    font-size: 20px;
+     
+}
+
+#list {
+   
+    color:rgb(0, 0, 0);
+    font-weight: 700;
+    font-size: 20px;
+   
+
+} 

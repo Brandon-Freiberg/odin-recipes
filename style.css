@@ -1,0 +1,28 @@
+#title {
+    font-size: 50px; ;
+    color:rgb(215, 215, 223);
+    background-color: rgb(14, 82, 34);
+    text-align: center;
+}
+
+.body {
+    padding: 25px 25px 25px 25px;
+    background-color: rgb(20, 22, 131);
+    align-content: center;
+}
+
+#odin{
+    
+    background-color: rgb(44, 11, 11);
+    padding: 10px 50px 10px 350px;
+}
+
+.recipes {
+    float: left;
+    color:aliceblue;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 10px 50px 10px 50px;
+   
+    
+}
